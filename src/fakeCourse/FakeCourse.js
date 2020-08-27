@@ -23,11 +23,5 @@ const courses = [
 ]
 
 
-// const shuffle = a =>{
-//     for(let i=0; i<a.length; i--){
-//         let j= Math.floor(Math.random() * i);
-//         [a[i-1], a[j]] = [a[j], a[i-1]]
-//     }
-// }
-// shuffle(courses)
+
 export default courses;
